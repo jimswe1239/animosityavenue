@@ -1,0 +1,11 @@
+{
+  "name": "Animosity Avenue",
+  "description": "Animosity Avenue Minecraft server",
+  "buildpacks": [
+    {
+      "url": "heroku/python",
+	  "url": "heroku/jvm",
+	  "url": "https://github.com/jkutner/heroku-buildpack-minecraft"
+    }
+  ],
+}
