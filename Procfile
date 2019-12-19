@@ -1,1 +1,0 @@
-web: screen -L -h 2048 -dmS minecraft java -Xmx${heap} -Xms${heap} -jar minecraft.jar nogui
